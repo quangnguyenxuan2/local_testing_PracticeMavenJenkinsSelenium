@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuiteRelease1]">
+  <test name="TestRelease1(failed)">
+    <classes>
+      <class name="phpTravel.CheckFunctionLogin">
+        <methods>
+          <include name="End_Test"/>
+          <include name="Set_Up"/>
+          <include name="CheckLoginAppSuccess"/>
+        </methods>
+      </class> <!-- phpTravel.CheckFunctionLogin -->
+    </classes>
+  </test> <!-- TestRelease1(failed) -->
+</suite> <!-- Failed suite [SuiteRelease1] -->

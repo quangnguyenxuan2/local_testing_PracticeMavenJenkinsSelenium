@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31853" started-at="2017-06-20T10:04:46Z" finished-at="2017-06-20T10:05:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31853" started-at="2017-06-20T10:04:46Z" finished-at="2017-06-20T10:05:18Z">
+      <class name="phpTravel.CheckFunctionLogin">
+        <test-method status="PASS" signature="Set_Up()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="Set_Up" is-config="true" duration-ms="13840" started-at="2017-06-20T17:04:46Z" finished-at="2017-06-20T17:05:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_Up -->
+        <test-method status="PASS" signature="CheckLoginAppNOTsuccess()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="CheckLoginAppNOTsuccess" duration-ms="1878" started-at="2017-06-20T17:05:00Z" finished-at="2017-06-20T17:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLoginAppNOTsuccess -->
+        <test-method status="PASS" signature="End_Test()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="End_Test" is-config="true" duration-ms="8" started-at="2017-06-20T17:05:02Z" finished-at="2017-06-20T17:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End_Test -->
+        <test-method status="PASS" signature="Set_Up()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="Set_Up" is-config="true" duration-ms="14338" started-at="2017-06-20T17:05:02Z" finished-at="2017-06-20T17:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_Up -->
+        <test-method status="PASS" signature="CheckLoginAppSuccess()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="CheckLoginAppSuccess" duration-ms="1762" started-at="2017-06-20T17:05:16Z" finished-at="2017-06-20T17:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLoginAppSuccess -->
+        <test-method status="PASS" signature="End_Test()[pri:0, instance:phpTravel.CheckFunctionLogin@77caeb3e]" name="End_Test" is-config="true" duration-ms="10" started-at="2017-06-20T17:05:18Z" finished-at="2017-06-20T17:05:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- End_Test -->
+      </class> <!-- phpTravel.CheckFunctionLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteRelease_Master">
+  <test name="TestRelease1">
+    <classes>
+      <class name="phpTravel.CheckFunctionLogin"/>
+      <class name="phpTravel.CheckFunctionSignUp"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="TestRelease2">
+    <classes>
+      <class name="hellomaven.CheckOpenApp"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
